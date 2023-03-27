@@ -79,8 +79,7 @@ fraud
 _..._
 
 The solution file must comply with the specifications described in the Data section, as far as they are applicable.
-Incorrect or incomplete submissions cannot be evaluated.
 The solution file must be uploaded as a structured text file (csv) to TEAMS.
-The name of the text file consists of the team name.
+
 
 

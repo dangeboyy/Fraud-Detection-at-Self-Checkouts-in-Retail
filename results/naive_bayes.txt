@@ -1,0 +1,6 @@
+naive_bayes 100 times 0.3 train
+average_accuracy_score: 0.7862056737588659
+average_lost: -2828.25
+average_confusion_matrix:
+413.49 1.83 
+118.75 29.93 

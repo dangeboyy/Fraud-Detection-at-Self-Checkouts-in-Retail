@@ -1,0 +1,6 @@
+svc 100 times 0.3 train
+average_accuracy_score: 0.9442553191489357
+average_lost: -157.2
+average_confusion_matrix:
+532.56 31.44 
+0.0 0.0 

@@ -1,0 +1,6 @@
+DecisionTree 100 times 0.3 train
+average_accuracy_score: 0.9627659574468085
+average_lost: -214.0
+average_confusion_matrix:
+523.2 10.6 
+10.4 19.8 

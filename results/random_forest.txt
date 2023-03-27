@@ -1,0 +1,6 @@
+random_forest 100 times 0.3 train
+average_accuracy_score: 0.9622695035460984
+average_lost: -89.75
+average_confusion_matrix:
+530.83 19.14 
+2.14 11.89 

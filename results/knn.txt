@@ -1,0 +1,6 @@
+knn 100 times 0.3 train
+average_accuracy_score: 0.9412588652482264
+average_lost: -202.25
+average_confusion_matrix:
+530.87 31.3 
+1.83 0.0 

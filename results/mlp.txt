@@ -1,0 +1,6 @@
+mlp 100 times 0.3 train
+average_accuracy_score: 0.9357269503546096
+average_lost: -317.85
+average_confusion_matrix:
+524.79 28.68 
+7.57 2.96 

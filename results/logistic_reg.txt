@@ -1,0 +1,6 @@
+logistic_reg 100 times 0.3 train
+average_accuracy_score: 0.9438120567375878
+average_lost: -264.5
+average_confusion_matrix:
+526.52 24.94 
+6.75 5.79 
